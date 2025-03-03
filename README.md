@@ -13,6 +13,6 @@ DATA TABLE CONTENT:
 10.	Currency code
 11.	Country code
 
-Create csv, Json file for data storage
+Create csv, Json file for dataset
 choose the correct NLP model to develop the Application
 
