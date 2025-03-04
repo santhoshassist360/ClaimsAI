@@ -15,4 +15,4 @@ DATA TABLE CONTENT:
 
 Create csv, Json file for dataset
 choose the correct NLP model to develop the Application
-
+Make greetings and response dataset
